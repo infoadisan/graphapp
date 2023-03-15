@@ -1,0 +1,5 @@
+D:\Z_BackUp_OneDrive\OneDrive\02_DOCS\3_PROJECTS\01Practice\graphconsoleapp\obj\Debug\net7.0\graphconsoleapp.csproj.AssemblyReference.cache
+D:\Z_BackUp_OneDrive\OneDrive\02_DOCS\3_PROJECTS\01Practice\graphconsoleapp\obj\Debug\net7.0\graphconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Z_BackUp_OneDrive\OneDrive\02_DOCS\3_PROJECTS\01Practice\graphconsoleapp\obj\Debug\net7.0\graphconsoleapp.AssemblyInfoInputs.cache
+D:\Z_BackUp_OneDrive\OneDrive\02_DOCS\3_PROJECTS\01Practice\graphconsoleapp\obj\Debug\net7.0\graphconsoleapp.AssemblyInfo.cs
+D:\Z_BackUp_OneDrive\OneDrive\02_DOCS\3_PROJECTS\01Practice\graphconsoleapp\obj\Debug\net7.0\graphconsoleapp.csproj.CoreCompileInputs.cache
